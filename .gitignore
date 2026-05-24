@@ -1,1 +1,3 @@
 *.png
+!learning_*.png
+!all_models_*.png
